@@ -1,15 +1,14 @@
 {
-    "Head" : ["Headache", "Pain behind the eyes", "Loss of smell", "Sinus pressure", "Redness of eyes", "Throat irritation", "Dizziness", "Blurred and distorted vision", "Red spots over body", "Runny nose", "Congestion"],
-    "Skin" : ["Itching", "Skin rash", "Nodal skin eruptions", "Ulcers on tongue", "Yellowish skin", "Red spots over body", "Dischromic patches", "Skin peeling", "Silver-like dusting", "Small dents in nails", "Inflammatory nails", "Blister", "Red sore around nose", "Yellow crust ooze"],
-    "Respiratory System" : ["Continuous sneezing", "Cough", "Phlegm", "Breathlessness", "Scurrying"],
-    "Digestive System" : ["Stomach pain", "Acidity", "Vomiting", "Burning micturition", "Indigestion", "Abdominal pain", "Diarrhoea", "Constipation", "Nausea", "Loss of appetite", "Pain during bowel movements", "Pain in anal region", "Bloody stool", "Irritation in anus", "Belly pain", "Stomach bleeding", "Distention of abdomen"],
-    "Musculoskeletal System" : ["Joint pain", "Muscle wasting", "Weakness in limbs", "Back pain", "Neck pain", "Knee pain", "Hip joint pain", "Muscle weakness", "Swelling joints", "Movement stiffness", "Painful walking"],
-    "Circulatory System": ["Shivering", "Chills", "Cold hands and feet", "High fever", "Fast heart rate", "Swollen legs", "Swollen blood vessels", "Palpitations"],
-    "Urinary System" : ["Spotting urination", "Yellow urine", "Yellowing of eyes", "Painful micturition", "Burning micturition", "Internal itching", "Bladder discomfort", "Foul smell of urine", "Continuous feeling of urine", "Passage of gases", "Polyuria"],
-    "Central Nervous System" : ["Anxiety", "Mood swings", "Restlessness", "Lethargy", "Dizziness", "Coma", "Altered sensorium", "Lack of concentration", "Visual disturbances"],
-    "Endocrine System" : ["Weight gain", "Weight loss", "Obesity", "Enlarged thyroid", "Increased appetite"],
-    "Reproductive System" : ["Abnormal menstruation"],
-    "Immune System" : ["Sunken eyes", "Malaise", "Toxic look (typhos)", "Family history"],
-    "Other Symptoms" : ["Fatigue", "Weakness of one body side", "Unsteadiness", "Excessive hunger", "Extra marital contacts", "Drying and tingling lips", "Slurred speech", "Spinning movements", "Loss of balance", "Blackheads", "Pus-filled pimples"]
-}
+    "Head": ["High fever", "headache", "pain_behind_the_eyes", "blurred_and_distorted_vision", "dizziness", "slurred_speech", "loss_of_smell", "watering_from_eyes", "visual_disturbances"],
+    "Eyes": ["Yellowing of eyes", "redness_of_eyes", "sunken_eyes", "blurry_vision", "visual_disturbances"],
+    "Skin": ["Yellowish skin", "itching", "skin_rash", "nodal_skin_eruptions", "skin_peeling", "skin_redness", "pus_filled_pimples", "blackheads", "scarring", "silver_like_dusting", "blister", "red_sore_around_nose", "yellow_crust_ooze", "red_spots_over_body"],
+    "Throat": ["patches_in_throat", "sore_throat", "throat_irritation", "redness_of_eyes"],
+    "Neurological": ["anxiety", "mood_swings", "restlessness", "lethargy", "irritability", "altered_sensorium", "coma", "lack_of_concentration", "depression"],
+    "Respiratory System": ["cough", "chest_pain", "breathlessness", "runny_nose", "congestion", "phlegm", "sinus_pressure", "fast_heart_rate", "wheezing", "blood_in_sputum"],
+    "Digestive System": ["stomach_pain", "acidity", "ulcers_on_tongue", "vomiting", "burning_micturition", "indigestion", "abdominal_pain", "constipation", "diarrhoea", "nausea", "loss_of_appetite", "pain_during_bowel_movements", "pain_in_anal_region", "abdominal_pain", "abdominal_bleeding", "distention_of_abdomen", "stomach_bleeding"],
+    "Musculoskeletal System": ["joint_pain", "muscle_wasting", "weakness_in_limbs", "back_pain", "neck_pain", "hip_joint_pain", "knee_pain", "muscle_weakness", "swelling_joints", "stiffness", "painful_walking"],
+    "Urinary System": ["Dark urine", "burning_micturition", "spotting_urination", "burning_urine", "yellow_urine", "painful_urination", "foul_smell_of_urine", "continuous_feel_of_urine", "bladder_discomfort", "Continuous sneezing"],
+    "Circulatory System": ["Irregular sugar level", "cold_hands_and_feet", "sweating", "fast_heart_rate", "palpitations"],
+    "Others": ["chills", "shivering", "weight_gain", "weight_loss", "fatigue", "malaise", "fever", "sweating", "dehydration", "obesity", "enlarged_thyroid", "family_history", "toxic_look_(typhos)", "receiving_blood_transfusion", "receiving_unsterile_injections", "history_of_alcohol_consumption", "blood_in_sputum", "prominent_veins_on_calf", "pus_filled_pimples", "small_dents_in_nails", "inflammatory_nails", "increased_appetite", "extra_marital_contacts", "movement_stiffness", "spinning_movements", "loss_of_balance", "unsteadiness", "weakness_of_one_body_side"]
+  }
   
