@@ -1,0 +1,15 @@
+{
+    "Head" : ["Headache", "Pain behind the eyes", "Loss of smell", "Sinus pressure", "Redness of eyes", "Throat irritation", "Dizziness", "Blurred and distorted vision", "Red spots over body", "Runny nose", "Congestion"],
+    "Skin" : ["Itching", "Skin rash", "Nodal skin eruptions", "Ulcers on tongue", "Yellowish skin", "Red spots over body", "Dischromic patches", "Skin peeling", "Silver-like dusting", "Small dents in nails", "Inflammatory nails", "Blister", "Red sore around nose", "Yellow crust ooze"],
+    "Respiratory System" : ["Continuous sneezing", "Cough", "Phlegm", "Breathlessness", "Scurrying"],
+    "Digestive System" : ["Stomach pain", "Acidity", "Vomiting", "Burning micturition", "Indigestion", "Abdominal pain", "Diarrhoea", "Constipation", "Nausea", "Loss of appetite", "Pain during bowel movements", "Pain in anal region", "Bloody stool", "Irritation in anus", "Belly pain", "Stomach bleeding", "Distention of abdomen"],
+    "Musculoskeletal System" : ["Joint pain", "Muscle wasting", "Weakness in limbs", "Back pain", "Neck pain", "Knee pain", "Hip joint pain", "Muscle weakness", "Swelling joints", "Movement stiffness", "Painful walking"],
+    "Circulatory System": ["Shivering", "Chills", "Cold hands and feet", "High fever", "Fast heart rate", "Swollen legs", "Swollen blood vessels", "Palpitations"],
+    "Urinary System" : ["Spotting urination", "Yellow urine", "Yellowing of eyes", "Painful micturition", "Burning micturition", "Internal itching", "Bladder discomfort", "Foul smell of urine", "Continuous feeling of urine", "Passage of gases", "Polyuria"],
+    "Central Nervous System" : ["Anxiety", "Mood swings", "Restlessness", "Lethargy", "Dizziness", "Coma", "Altered sensorium", "Lack of concentration", "Visual disturbances"],
+    "Endocrine System" : ["Weight gain", "Weight loss", "Obesity", "Enlarged thyroid", "Increased appetite"],
+    "Reproductive System" : ["Abnormal menstruation"],
+    "Immune System" : ["Sunken eyes", "Malaise", "Toxic look (typhos)", "Family history"],
+    "Other Symptoms" : ["Fatigue", "Weakness of one body side", "Unsteadiness", "Excessive hunger", "Extra marital contacts", "Drying and tingling lips", "Slurred speech", "Spinning movements", "Loss of balance", "Blackheads", "Pus-filled pimples"]
+}
+  
